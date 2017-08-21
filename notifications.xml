@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Platform and Plugin Updates" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" />
+  </component>
+</application>
