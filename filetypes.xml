@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="CentipedeApplication" type="JAVA" />
       <mapping pattern="vpass" type="PLAIN_TEXT" />
+      <mapping ext="btrfs" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
