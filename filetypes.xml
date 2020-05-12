@@ -5,12 +5,12 @@
       <mapping pattern="CentipedeApplication" type="JAVA" />
       <mapping pattern="applied-patches" type="PLAIN_TEXT" />
       <mapping pattern="vpass" type="PLAIN_TEXT" />
-      <mapping ext="somnoapp-admin" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="btrfs" type="PLAIN_TEXT" />
+      <mapping ext="somnoapp-admin" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="somnoapp-agent" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="V2__Alter_table_service_add_column_transition" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
