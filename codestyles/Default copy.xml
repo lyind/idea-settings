@@ -1,18 +1,8 @@
 <code_scheme name="Default copy" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
-  <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
-  <option name="JD_KEEP_EMPTY_RETURN" value="false" />
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
-    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
-  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
@@ -43,16 +33,6 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <arrangement>
@@ -145,7 +125,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
