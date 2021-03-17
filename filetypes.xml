@@ -5,6 +5,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="CentipedeApplication" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="vpass" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
