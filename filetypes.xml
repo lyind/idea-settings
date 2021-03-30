@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="init" type="AUTO_DETECTED" />
       <mapping pattern="flux" type="AUTO_DETECTED" />
+      <mapping pattern="keys" type="AUTO_DETECTED" />
       <mapping pattern="apps" type="AUTO_DETECTED" />
       <mapping pattern="startup" type="AUTO_DETECTED" />
       <mapping pattern="CentipedeApplication" type="JAVA" />
