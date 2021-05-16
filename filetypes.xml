@@ -9,6 +9,7 @@
       <mapping pattern="startup" type="AUTO_DETECTED" />
       <mapping pattern="CentipedeApplication" type="JAVA" />
       <mapping pattern="vpass" type="PLAIN_TEXT" />
+      <mapping ext="erg" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="url" type="PLAIN_TEXT" />
