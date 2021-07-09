@@ -9,6 +9,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.gradle</mask>
     <mask>*.json</mask>
+    <mask>*.py</mask>
     <mask>*.yml</mask>
   </component>
 </application>
